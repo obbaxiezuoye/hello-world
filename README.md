@@ -1,2 +1,5 @@
 # hello-world
-first hu 502 assignment
+
+Hey All,
+
+Bowen here! I am a consultant working in the BIG APPLE.
